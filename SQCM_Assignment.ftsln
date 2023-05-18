@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "SQCM UFT Assignment", "SQCM UFT Assignment\Test.tsp", "7AEE64E4-19D3-4CF2-A9C9-F95942F55289"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\New folder\Work\NEU\Software quality control and management\UFT\SQCM UFT Assignment\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		7AEE64E4-19D3-4CF2-A9C9-F95942F55289.Debug|Any CPU.Build.0 = Debug|Any CPU
+		7AEE64E4-19D3-4CF2-A9C9-F95942F55289.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		7AEE64E4-19D3-4CF2-A9C9-F95942F55289.Release|Any CPU.Build.0 = Release|Any CPU
+		7AEE64E4-19D3-4CF2-A9C9-F95942F55289.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
